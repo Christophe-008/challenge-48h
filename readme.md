@@ -58,7 +58,7 @@ Développer une **Progressive Web App (PWA)** qui permet de créer des événeme
 
 ## **Livrables**
 
-1. Un prototype fonctionnel de la PWA, accessible via un navigateur.
+1. Un prototype fonctionnel de la PWA, accessible via un navigateur (**Déployé**).
 2. Une présentation de 5 minutes expliquant :
     - Le concept.
     - Les technologies utilisées.
