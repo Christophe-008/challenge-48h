@@ -27,18 +27,18 @@ Développer une **Progressive Web App (PWA)** qui permet de créer des événeme
 ### 3. **Galerie privée d’événement**
 
 -   Les photos sont stockées dans une galerie privée associée à l’événement.
--   Un slideshow en temps réel affiche les photos ajoutées par les participants.
+-   (**BONUS**) Un slideshow en temps réel affiche les photos ajoutées par les participants.
 
 ### 4. **Gestion des permissions**
 
 -   Le créateur peut modérer les photos (ajout/suppression).
 -   Possibilité de limiter les téléchargements ou d’autoriser le partage de certaines photos.
 
-### 5. **Optimisation PWA (facultatif)**
+### 5. **Optimisation PWA**
 
--   **Accès offline** : possibilité de consulter les photos téléchargées localement.
+-   **(BONUS)Accès offline** : possibilité de consulter les photos téléchargées localement.
 -   Fonctionnalité **"ajouter à l’écran d’accueil"**.
--   Notifications push pour alerter les participants (ex. "Nouvelle photo ajoutée !").
+-   (**EXTRA CHALLENGE**) Notifications push pour alerter les participants (ex. "Nouvelle photo ajoutée !").
 
 ### 6. **Accessibilité**
 
@@ -91,7 +91,6 @@ Développer une **Progressive Web App (PWA)** qui permet de créer des événeme
 ## **Ambiance et organisation**
 
 -   **Travail en équipe** : 4 à 5 participants par groupe.
--   Sessions de mentorat à intervalles réguliers.
 -   Présentation finale devant un jury.
 
 ---
