@@ -8,7 +8,7 @@ Les moments passés en famille sont précieux, mais ils sont souvent dispersés 
 
 ## **Objectif**
 
-Développer une **Progressive Web App (PWA)** qui permet de créer des événements photo familiaux. Chaque événement génère un **code unique** et un **QR code** pour que les membres puissent facilement rejoindre l’événement, partager leurs photos, et vivre l’instant en direct via un **slideshow en temps réel**.
+Développer une **Progressive Web App (PWA)** qui permet de créer des événements photo familiaux. Chaque événement génère un **code unique** et un **QR code** pour que les membres puissent facilement rejoindre l’événement, partager leurs photos, et vivre l’instant en direct via un **[BONUS]slideshow en temps réel**.
 
 ---
 
@@ -71,7 +71,7 @@ Développer une **Progressive Web App (PWA)** qui permet de créer des événeme
 
 1. **Originalité et utilité** : L’application répond-elle à un besoin réel de manière innovante ?
 2. **UX/UI** : L’application est-elle simple, attractive et facile à utiliser ?
-3. **Aspects techniques** : Optimisation pour PWA, qualité du code, et fonctionnalités en temps réel (slideshow, galerie).
+3. **Aspects techniques** : Optimisation pour PWA, qualité du code, et fonctionnalités en temps réel ([**BONUS**]slideshow, galerie).
 4. **Impact en temps réel** : Fluidité et rapidité de l’expérience lors des ajouts de photos ou du partage.
 5. **Présentation** : Clarté et impact de la démonstration.
 
